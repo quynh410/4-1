@@ -1,0 +1,29 @@
+
+.container{
+    border:1px solid;
+    width:700px;
+    height:300px;
+    padding: 10px;
+}
+.bg{
+    display: flex;
+    background-color: antiquewhite;
+    gap:120px;
+    height:280px;
+
+}
+.item{
+    position: relative;
+    top:50px;
+    left:40px;
+}
+.item1{
+    display: flex;
+    gap:20px;
+    right:20px;
+    position: relative;
+}
+.item2{
+    position: relative;
+    top:50px;
+}

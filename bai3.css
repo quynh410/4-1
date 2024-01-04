@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.border{
+    border: 1px solid;
+    width:100%;
+    background-color: rgba(169, 169, 169, 0.142);
+    
+}
+
+.balls{
+    border:1px solid;
+    padding: 25px;
+    width:550px;
+}
+.container{
+    background-color: rgb(147, 147, 137);
+}
+.test{
+    position: relative;
+    left:400px;
+    top:-250px;
+
+}
